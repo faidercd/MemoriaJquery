@@ -1,0 +1,36 @@
+.img{
+	height: 150px;
+	width: 150px;
+	background-image: url(fondo.jpg);
+	background-size: 100%;
+
+}
+#cont{
+	height: 700px;
+	width: 800px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+
+
+}
+.ig{
+	height: 150px;
+	width: 150px;
+
+}
+h1{
+	text-align: center;
+}
+
+#aja{
+	display: flex;
+	justify-content: center;
+}
+h1{
+	font-family: algerian;
+	font-size: 50px;
+}
+body{
+background-color: #8000FF;
+}
